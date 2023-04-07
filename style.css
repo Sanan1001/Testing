@@ -1,0 +1,10 @@
+body {
+  color: purple;
+  background-color:lightskyblue;
+  border: 4px double black
+};
+
+.header {
+  width: 70%;
+  
+}
